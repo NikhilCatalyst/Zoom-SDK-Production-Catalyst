@@ -11,7 +11,7 @@ Pod::Spec.new do |s|
   s.version          = '5.0.24433.0616'
   s.summary          = 'This contains the production pod for Zoom iOS SDK'
 
-  s.description      = 'This contains the production pod for Zoom iOS SDK. It only contains the frameworks required. Works onlu on device and does not support Simulator'
+  s.description      = 'This is the production pod for Zoom iOS SDK. It only contains the frameworks required. Works onlu on device and does not support Simulator'
 
   s.homepage         = 'https://github.com/NikhilCatalyst/Zoom-SDK-Production-Catalyst'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
